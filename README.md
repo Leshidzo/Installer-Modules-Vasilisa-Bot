@@ -4,10 +4,10 @@
 
 Чтобы все работало, впишите в терминал следующую команду:
 
-chmod ugo+x install_mod.sh
+chmod ugo+x install.sh
 
 Все можете прописывать 
 
-./install_mod.sh
+./install.sh
 
 Дальше начнёться установка всех модулей.
